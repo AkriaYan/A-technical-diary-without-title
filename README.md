@@ -2,7 +2,8 @@
 目前存在问题如下：
 1.如何获得博客框架，包含文章，标签页面，日历，计数器等
 感觉需要现成的模板？或者自写HTML　CSS。。？
-
+找到如下工具^ ^
+https://theme-next.iissnan.com/getting-started.html
 
 //
 You can use the [editor on GitHub](https://github.com/AkriaYan/AkiraYan.GitHub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
